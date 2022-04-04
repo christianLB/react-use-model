@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+Demo: https://react-use-model.vercel.app/
+
 Note: Use npm start to run the app.
 
 This example shows the usage of useModel hook.
